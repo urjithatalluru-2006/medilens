@@ -1,0 +1,6 @@
+{
+  "name": "MediLens Auth & User Management",
+  "description": "Secure Firebase Authentication portal featuring user registration, email verification, password management, and user profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
